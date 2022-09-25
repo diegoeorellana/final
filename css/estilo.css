@@ -97,4 +97,18 @@ img {
   height: 50%; }
 
 .indexs {
-  background-color: aqua; }
+  background-color: #5cc903; }
+
+.pindex {
+  margin-bottom: 0rem; }
+
+.mainC {
+  background-color: #5cc903; }
+
+label {
+  margin-bottom: 1rem;
+  display: block;
+  margin-top: 1rem; }
+
+.formu {
+  margin-bottom: 1rem; }
