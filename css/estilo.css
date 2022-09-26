@@ -31,7 +31,7 @@ header {
 footer {
   display: flexbox;
   flex-direction: row;
-  background-color: #085255;
+  background-color: #10b9be;
   padding: 10px;
   border-radius: 5px 3px 20px 10px;
   -webkit-border-radius: 5px 3px 20px 10px;
